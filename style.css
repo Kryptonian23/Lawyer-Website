@@ -1,0 +1,53 @@
+
+/* Full screen image background */
+html { 
+    background: url(https://live.staticflickr.com/8695/16203316634_eeda57d47c_b.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+/* Top navbar */
+.topnav {
+    background:gray;
+    overflow: hidden;
+    opacity:1.5;
+    width:fit-content;
+    font-size: xx-large;
+    
+
+  }
+  
+/* Links inside the navigation bar */
+    .topnav a {
+      float:none;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 20px 16px;
+      text-decoration: none;
+      font-size: 30px;
+      color
+      
+    }
+  
+
+
+#banner {
+
+  text-align: center;   
+  background:gray;
+  width: fit-content;
+  font-size: 50px;
+  
+  
+  
+  }
+
+
+
+
+
+
+
+  
